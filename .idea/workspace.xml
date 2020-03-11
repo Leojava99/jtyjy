@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae71c01e-4b2b-43d3-9f75-e9495cae9bb2" name="Default Changelist" comment="" />
+    <list default="true" id="ae71c01e-4b2b-43d3-9f75-e9495cae9bb2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,11 +58,6 @@
               <item name="learn1" type="b2602c69:ProjectViewProjectNode" />
               <item name="learn1" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="learn1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -76,7 +73,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583930250153" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583930396255" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -115,7 +112,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583928859765</updated>
-      <workItem from="1583928862590" duration="1231000" />
+      <workItem from="1583928862590" duration="1531000" />
     </task>
     <task id="LOCAL-00001" summary="build project">
       <created>1583929085741</created>
@@ -131,11 +128,25 @@
       <option name="project" value="LOCAL" />
       <updated>1583929169781</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="build project-.idea">
+      <created>1583930186507</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583930186507</updated>
+    </task>
+    <task id="LOCAL-00004" summary="build project-workspace.xml">
+      <created>1583930351861</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583930351861</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1231000" />
+    <option name="totallyTimeSpent" value="1531000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="63" width="1400" height="775" extended-state="0" />
@@ -149,7 +160,7 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.6369138" />
+      <window_info anchor="bottom" id="Terminal" weight="0.6369138" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" />
@@ -206,7 +217,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="build project" />
     <MESSAGE value="build project-iml" />
-    <option name="LAST_COMMIT_MESSAGE" value="build project-iml" />
+    <MESSAGE value="build project-.idea" />
+    <MESSAGE value="build project-workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="build project-workspace.xml" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/HELP.md">
@@ -219,6 +232,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn1.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-658" />
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
